@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vesa Jylhä</h1>
-<h3 align="center">I'm 25 year old ICT student from Tamk.</h3>
+<h3 align="center">Software engineering student from Tampere University of Applied Sciences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jysavelha&label=Profile%20views&color=0e75b6&style=flat" alt="jysavelha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jysavelha" alt="jysavelha" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
